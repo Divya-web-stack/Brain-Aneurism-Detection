@@ -2,6 +2,7 @@
 🧠 Brain Aneurysm Detection & Segmentation with Multi-Task Learning
 A deep learning framework for the automated detection and segmentation of intracranial aneurysms from 3D neuroimaging data using a multi-task Nested U-Net.
 
+
 📖 Abstract
 Intracranial aneurysms pose a significant neurological risk, with early and accurate detection being critical for preventing rupture. This project introduces a novel deep learning model, the NestedUnetWithClassifier, which performs two critical tasks simultaneously:
 
